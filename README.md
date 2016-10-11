@@ -1,4 +1,4 @@
-= Bootstrap para Iniciantes, 1a Edição =
+# Bootstrap para Iniciantes, 1a Edição
 
 Bem-vindo ao repositório da primeira edição ebook Bootstrap para Iniciantes
 
